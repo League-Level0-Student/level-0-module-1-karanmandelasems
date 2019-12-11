@@ -11,7 +11,7 @@ void draw() {
     background(0, 0, 40);
     y=y-1;
     fill(random(255), 0, 0);
-    ellipse(x, y + 150,10000, 90);
+    ellipse(x, y + 150,10000, 10000);
     fill(248, 128, 0);
     ellipse(x, y + 200, 10000, 70);
     fill(255, 153, 0);
